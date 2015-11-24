@@ -1,0 +1,28 @@
+name: Travelogician
+favicon: null
+layout_spectrum: 0.4179149642586708
+typography_spectrum: 0.9603923971299082
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5398342136759311
+  lightness: 0.2313034839462489
+  saturation: 0.0048683148343116045
+  rhythmicContrast: 0.03341927658766508
+purpose: []
