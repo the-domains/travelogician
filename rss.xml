@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Travelogician]]></title>
         <description><![CDATA[Travelogician]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/travelogician/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 05:11:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 05:17:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/travelogician/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When is a 'travel hack' unethical?]]></title>
+            <description><![CDATA[<article><h1>When is a 'travel hack' unethical?</h1><p>Nikolas Langes thought he knew every trick in the book for saving money on airline tickets. After all, he's the founder of an online start-up called Tripdelta, which specializes in finding inexpensive fares. Turns out he didn't. One day, he noticed a discrepancy between fares based on the currency used to pay.</p><img src="https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/11/20/Others/Images/2015-11-19/AH73081447978510.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/lifestyle/travel/when-is-a-travel-hack-unethical/2015/11/19/694b455a-88a0-11e5-be8b-1ae2e4f50f76_story.html</link>
+            <guid isPermaLink="false">cfbe8e50-d706-4585-9cda-0adcd6c2ca0a</guid>
+            <pubDate>Tue, 24 Nov 2015 05:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When is a "travel hack" unethical?]]></title>
             <description><![CDATA[<article><h1>When is a "travel hack" unethical?</h1><p>From cruising altitude, this looks like a ridiculous game of cat-and-mouse — and one that the travel companies will eventually win.</p></article>]]></description>
