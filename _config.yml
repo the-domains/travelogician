@@ -1,7 +1,7 @@
 name: Travelogician
 favicon: null
-layout_spectrum: 0.4179149642586708
-typography_spectrum: 0.9603923971299082
+layout_spectrum: 0.58238
+typography_spectrum: 0.82841
 title: Figuring it all out
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#3B28CC'
   brandStrength: 0.5398342136759311
   lightness: 0.2313034839462489
-  saturation: 0.0048683148343116045
+  saturation: 0
   rhythmicContrast: 0.03341927658766508
 purpose: []
