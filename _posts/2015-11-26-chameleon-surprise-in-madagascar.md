@@ -1,14 +1,10 @@
 ---
-author:
-  - name: marsdenmediavideo
-    url: 'https://www.youtube.com/user/marsdenmediavideo'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=l_VtQy2XI1U'
+inLanguage: en
+starred: false
 keywords:
   - chameleons
   - duration
@@ -21,7 +17,13 @@ keywords:
   - tampolodgeyoutube
   - bbc
 description: 'Our guide at Tampolodge in Masoala told us that there was a chameleon feasting on flies near the compost pile behind the kitchen. Watch in HD!'
-inLanguage: en
+datePublished: '2015-11-26T15:59:02.735Z'
+dateModified: '2015-11-26T15:58:44.185Z'
+author:
+  - name: marsdenmediavideo
+    url: 'https://www.youtube.com/user/marsdenmediavideo'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=l_VtQy2XI1U&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=l_VtQy2XI1U&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=l_VtQy2XI1U'
 title: Chameleon surprise in Madagascar
-datePublished: '2015-11-26T15:42:17.231Z'
-dateModified: '2015-11-26T15:41:55.232Z'
 sourcePath: _posts/2015-11-26-chameleon-surprise-in-madagascar.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
