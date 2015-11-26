@@ -1,14 +1,10 @@
 ---
-author:
-  - name: marsdenmediavideo
-    url: 'https://www.youtube.com/user/marsdenmediavideo'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=OacTMpa9OfM'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - aleppo
@@ -21,7 +17,13 @@ keywords:
   - asik
   - azatutyun
 description: 'A collection of photos and footage taken in Aleppo, Syria in November/December 2010. All photography by Graham and Sarah Marsden. Audio recorded during a mass at Forty Martyrs Cathedral, an Armenian Orthodox church in Aleppo. http://en.wikipedia.org/wiki/Forty_Martyrs_Cathedral'
-inLanguage: en
+datePublished: '2015-11-26T15:58:14.630Z'
+dateModified: '2015-11-26T15:57:56.049Z'
+author:
+  - name: marsdenmediavideo
+    url: 'https://www.youtube.com/user/marsdenmediavideo'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=OacTMpa9OfM&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=OacTMpa9OfM&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=OacTMpa9OfM'
 title: 'Aleppo, Syria - Halab in Pictures'
-datePublished: '2015-11-26T15:39:12.730Z'
-dateModified: '2015-11-26T15:38:46.931Z'
 sourcePath: _posts/2015-11-26-aleppo-syria-halab-in-pictures.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
